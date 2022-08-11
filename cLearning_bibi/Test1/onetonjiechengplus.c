@@ -24,3 +24,11 @@ void Plus()
     printf("%d", bigofsum);
 
 }
+
+//改进版
+// for(;;)
+// {
+//     ret *= n;
+//     sum += ret;
+// }
+// printf("%d", sum);
