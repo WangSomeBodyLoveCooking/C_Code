@@ -10,3 +10,6 @@ int function11(int n);
 int function11_1(int n);
 int function12_1(int n);
 int function12_2(int n);
+int my_strlen (char *array);
+void resortStr1 (char *array);
+void resortStr2(char *array);
