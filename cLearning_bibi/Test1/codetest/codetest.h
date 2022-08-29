@@ -17,3 +17,4 @@ void BobbleSort(int *array, int num);
 void ex_num1(int *a, int *b);
 void ex_num2(int *a, int *b);
 void ex_num3(int *a, int *b);
+int funC(int a);
