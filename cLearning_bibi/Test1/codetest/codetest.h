@@ -14,3 +14,6 @@ int my_strlen (char *array);
 void resortStr1 (char *array);
 void resortStr2(char *array);
 void BobbleSort(int *array, int num);
+void ex_num1(int *a, int *b);
+void ex_num2(int *a, int *b);
+void ex_num3(int *a, int *b);
