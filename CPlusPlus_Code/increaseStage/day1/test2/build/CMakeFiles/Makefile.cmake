@@ -81,7 +81,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/AllDownload/ChromeDownLoad/Cmake/cmake-3.24.2-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows-windres.cmake"
   "D:/AllDownload/ChromeDownLoad/Cmake/cmake-3.24.2-windows-x86_64/share/cmake-3.24/Modules/Platform/Windows.cmake"
   "D:/AllDownload/ChromeDownLoad/Cmake/cmake-3.24.2-windows-x86_64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake"
-  "D:/Learning/gitRepository/C_Code/CPlusPlus_Code/increaseStage/day1/test1/CMakeLists.txt"
+  "D:/Learning/gitRepository/C_Code/CPlusPlus_Code/increaseStage/day1/test2/CMakeLists.txt"
   "CMakeFiles/3.24.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.24.2/CMakeRCCompiler.cmake"
   "CMakeFiles/3.24.2/CMakeSystem.cmake"
@@ -103,5 +103,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/hello.dir/DependInfo.cmake"
+  "CMakeFiles/main.dir/DependInfo.cmake"
   )
