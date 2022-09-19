@@ -1,0 +1,2 @@
+C:\PROGRA~2\mingw64\bin\ar.exe qc libfunc.a CMakeFiles/func.dir/source/cDistance.obj CMakeFiles/func.dir/source/isOnCircle.obj
+C:\PROGRA~2\mingw64\bin\ranlib.exe libfunc.a
