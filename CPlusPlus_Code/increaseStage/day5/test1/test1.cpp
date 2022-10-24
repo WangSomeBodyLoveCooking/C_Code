@@ -46,12 +46,6 @@ void test2()
     cout << "p.age = " <<p2.personAddPerson(p1).personAddPerson(p1).age << endl;    //40
     cout << "p.age = " <<p2.personAddPerson(p1).age << endl;    //40
     cout << "p.age = " <<p2.personAddPerson(p1).personAddPerson(p1).personAddPerson(p1).age << endl;   //70
-    
-
-
-
-
-
 }
 
 int main()
