@@ -20,6 +20,8 @@ class Person
 
 void test1()
 {
+    // Person p1;
+    // Person *p = p1;
     Person *p = NULL;
     p->showClassName(); //空指针，可以调用函数
     p->showPerson();    //但是如果成员函数中用到了this指针，就不能用空函数来调用
