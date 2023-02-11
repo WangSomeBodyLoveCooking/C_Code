@@ -1,3 +1,4 @@
+#coding=UTF-8
 # 1.python注释
 # '''
 # python注释的三种方法：
