@@ -75,3 +75,44 @@ list.sort()
 print(list)
 list.sort(reverse = True)
 print(list)
+
+
+
+# 复习
+#Python格式化输入输出
+# 1. 格式化输入input()
+# python2的提供raw_input与3的input()相同
+# 2的input()会根据用户数入直接判断类型
+
+# age = input('请输入年龄')
+# print(age, type(age))
+# age = int(age)
+# print(age, type(age))
+
+# 2. 格式化输出
+# %
+info = '姓名%s, 年龄%s'%('胖娃', '28')
+print(info)
+
+info = '姓名%(name)s, 年龄%(age)s'%{'name':'胖娃', 'age':'28'}
+print(info)
+
+# format()
+info = '姓名{0},年龄{1}'.format('胖胖', '28')
+print(info)
+
+info = '姓名{name},年龄{age}'.format(name='胖胖', age='28')
+print(info)
+
+info = '{0:*^10}'.format('开始')
+print(info)
+
+# f
+name = '胖娃'
+age = 28
+info = f'姓名{name},年龄{age}'
+print(info)
+
+dic = {'name' : '张大仙', 'age' : 84, 'height' : 200}
+for i in dic:
+    print(dic[i])       
