@@ -2,9 +2,7 @@
 // 线性表1（1，3，5，7, 9）线性表2（2,4,6,8）
 // 将两表合并为表3（135792468）
 // 注：用链表方式
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+#include "test.h"
 
 typedef struct Data
 {
@@ -59,10 +57,6 @@ int getListNum(Data *dataList)
 
     return cout;
 }
-
-typedef int BOOL;
-#define TRUE 1
-#define FALSE 0
 
 BOOL isExiest(Data *dataList1, int aimNum)
 {
