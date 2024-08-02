@@ -1,0 +1,7 @@
+这是文件练习的练习文档：
+ 我爱Python,写文件
+Hello,
+Worle这是文件练习的练习文档：
+ 我爱Python,写文件
+Hello,
+Worle
